@@ -1,0 +1,6 @@
+{
+  "name": "Apex Store Intelligence",
+  "description": "A comprehensive real-time computer vision pipeline, event stream, and analytics dashboard tracking store optimization and customer conversion rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
