@@ -4,6 +4,10 @@ This repository contains the complete Store Intelligence system for Apex Retail,
 
 ## 1. Quick Start
 
+### Prerequisites
+- **Node.js** version 18 or higher
+- **npm** (comes with Node.js)
+
 Deploy and boot the entire full-stack application locally with these simple commands:
 
 ### Running Locally
